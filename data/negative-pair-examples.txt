@@ -1,0 +1,189 @@
+{"word_1": "油的不行", "word_2": "不得不爱", "label": 0}
+{"word_1": "抱抱被 Baobaobe", "word_2": "抱枕被", "label": 0}
+{"word_1": "易开得 YIKAIDE", "word_2": "得开", "label": 0}
+{"word_1": "易开得 YIKAIDE", "word_2": "易开", "label": 0}
+{"word_1": "易开得 YIKAIDE", "word_2": "易得", "label": 0}
+{"word_1": "易开得 YIKAIDE", "word_2": "易开好", "label": 0}
+{"word_1": "哈喽果团", "word_2": "哈喽鲜果", "label": 0}
+{"word_1": "哈喽果团", "word_2": "哈喽", "label": 0}
+{"word_1": "玉霖轩", "word_2": "玉茗轩", "label": 0}
+{"word_1": "福荟燕 福+fuhuiyan+图形", "word_2": "燕福元", "label": 0}
+{"word_1": "酷加文化", "word_2": "家文化", "label": 0}
+{"word_1": "酷加文化", "word_2": "家寨文化", "label": 0}
+{"word_1": "酷加文化", "word_2": "家洛文化", "label": 0}
+{"word_1": "酷加文化", "word_2": "迦勒文化", "label": 0}
+{"word_1": "酷加文化", "word_2": "水文化", "label": 0}
+{"word_1": "深安未来", "word_2": "未来", "label": 0}
+{"word_1": "新准", "word_2": "准", "label": 0}
+{"word_1": "新准", "word_2": "花生准新车", "label": 0}
+{"word_1": "新准", "word_2": "精准", "label": 0}
+{"word_1": "拜乐尼baney", "word_2": "BANEY", "label": 0}
+{"word_1": "嘿熊", "word_2": "嘿嘿乐", "label": 0}
+{"word_1": "盈然坊", "word_2": "颜盈坊", "label": 0}
+{"word_1": "盈然坊", "word_2": "然", "label": 0}
+{"word_1": "塑丽变身吧", "word_2": "华丽转身", "label": 0}
+{"word_1": "当家铺子", "word_2": "闫家铺子", "label": 0}
+{"word_1": "当家铺子", "word_2": "于家铺子", "label": 0}
+{"word_1": "御园缘", "word_2": "御杞缘", "label": 0}
+{"word_1": "御园缘", "word_2": "北御缘", "label": 0}
+{"word_1": "御园缘", "word_2": "御蜂缘", "label": 0}
+{"word_1": "托管", "word_2": "灵光托管", "label": 0}
+{"word_1": "德知", "word_2": "智德", "label": 0}
+{"word_1": "知氢网", "word_2": "知策网", "label": 0}
+{"word_1": "西漫 Seeman", "word_2": "漫", "label": 0}
+{"word_1": "小塘农社", "word_2": "小塘轩", "label": 0}
+{"word_1": "昭茶", "word_2": "昭禧", "label": 0}
+{"word_1": "昭茶", "word_2": "明昭", "label": 0}
+{"word_1": "昭茶", "word_2": "昭明", "label": 0}
+{"word_1": "趣社商投", "word_2": "趣投", "label": 0}
+{"word_1": "趣社商投", "word_2": "社趣", "label": 0}
+{"word_1": "趣社商投", "word_2": "趣投屏", "label": 0}
+{"word_1": "好事百客", "word_2": "百事", "label": 0}
+{"word_1": "稀米", "word_2": "细米", "label": 0}
+{"word_1": "海狸创客公园", "word_2": "创客蓝海", "label": 0}
+{"word_1": "海狸创客公园", "word_2": "创客大公坊", "label": 0}
+{"word_1": "湖", "word_2": "心湖", "label": 0}
+{"word_1": "粤东生活", "word_2": "京东生活", "label": 0}
+{"word_1": "粤东生活", "word_2": "悦·生活", "label": 0}
+{"word_1": "粤东生活", "word_2": "粤活粤精彩", "label": 0}
+{"word_1": "粤东生活", "word_2": "生活", "label": 0}
+{"word_1": "盛运楼", "word_2": "达云楼", "label": 0}
+{"word_1": "简则", "word_2": "原则", "label": 0}
+{"word_1": "简则", "word_2": "则与 AND", "label": 0}
+{"word_1": "小钵擂粥", "word_2": "周小粥", "label": 0}
+{"word_1": "小钵擂粥", "word_2": "钵小满", "label": 0}
+{"word_1": "小钵擂粥", "word_2": "壹品小粥 粥", "label": 0}
+{"word_1": "小钵擂粥", "word_2": "钵", "label": 0}
+{"word_1": "小钵擂粥", "word_2": "钵钵当道", "label": 0}
+{"word_1": "经艾堂", "word_2": "艾谷堂", "label": 0}
+{"word_1": "智慧山河", "word_2": "山河", "label": 0}
+{"word_1": "荆石营造", "word_2": "匠心营造", "label": 0}
+{"word_1": "荆石营造", "word_2": "四库营造", "label": 0}
+{"word_1": "臻益鲜", "word_2": "臻鲜", "label": 0}
+{"word_1": "早安茶坊", "word_2": "早安喵", "label": 0}
+{"word_1": "逸璞堂", "word_2": "逸品堂", "label": 0}
+{"word_1": "逸璞堂", "word_2": "四雅逸堂", "label": 0}
+{"word_1": "家物简集", "word_2": "极简家", "label": 0}
+{"word_1": "家物简集", "word_2": "简家", "label": 0}
+{"word_1": "家物简集", "word_2": "简家", "label": 0}
+{"word_1": "爱车甄选", "word_2": "AI选车", "label": 0}
+{"word_1": "十分广州", "word_2": "分时广告", "label": 0}
+{"word_1": "十分广州", "word_2": "分时广告", "label": 0}
+{"word_1": "贡信", "word_2": "贡", "label": 0}
+{"word_1": "贡信", "word_2": "贡牛", "label": 0}
+{"word_1": "贡信", "word_2": "贡祥", "label": 0}
+{"word_1": "贡信", "word_2": "贡喜", "label": 0}
+{"word_1": "花之极", "word_2": "花之选", "label": 0}
+{"word_1": "唯物商城", "word_2": "唯美商城", "label": 0}
+{"word_1": "唯物商城", "word_2": "好物商城", "label": 0}
+{"word_1": "唯物商城", "word_2": "物联商城", "label": 0}
+{"word_1": "唯物商城", "word_2": "抖商商城", "label": 0}
+{"word_1": "龙王塘", "word_2": "龙塘", "label": 0}
+{"word_1": "龙王塘", "word_2": "龙塘", "label": 0}
+{"word_1": "龙王塘", "word_2": "龙塘", "label": 0}
+{"word_1": "龙王塘", "word_2": "龙塘", "label": 0}
+{"word_1": "互趣吧", "word_2": "趣跑吧", "label": 0}
+{"word_1": "互趣吧", "word_2": "互动吧", "label": 0}
+{"word_1": "铂声", "word_2": "圣铂 SENBO", "label": 0}
+{"word_1": "铂声", "word_2": "铂鲸", "label": 0}
+{"word_1": "铂声", "word_2": "铂浪", "label": 0}
+{"word_1": "翅走疆湖", "word_2": "疆湖", "label": 0}
+{"word_1": "圣智教育", "word_2": "致圣教育", "label": 0}
+{"word_1": "圣智教育", "word_2": "智德圣贤教育", "label": 0}
+{"word_1": "圣智教育", "word_2": "福圣教育", "label": 0}
+{"word_1": "圣智教育", "word_2": "金智教育", "label": 0}
+{"word_1": "圣智教育", "word_2": "智翔教育", "label": 0}
+{"word_1": "美可肤", "word_2": "福美可可 FMKOKO", "label": 0}
+{"word_1": "云智汇金", "word_2": "智汇云锦", "label": 0}
+{"word_1": "云智汇金", "word_2": "智汇云", "label": 0}
+{"word_1": "云智汇金", "word_2": "智汇云", "label": 0}
+{"word_1": "念北", "word_2": "本念", "label": 0}
+{"word_1": "速湃", "word_2": "云湃", "label": 0}
+{"word_1": "速湃", "word_2": "云湃", "label": 0}
+{"word_1": "曙亮", "word_2": "艺曙", "label": 0}
+{"word_1": "大福生生", "word_2": "周福生", "label": 0}
+{"word_1": "大福生生", "word_2": "金福生", "label": 0}
+{"word_1": "家宝乐", "word_2": "宝宝乐", "label": 0}
+{"word_1": "戳爷", "word_2": "树爷爷", "label": 0}
+{"word_1": "戳爷", "word_2": "爷爷家", "label": 0}
+{"word_1": "戳爷", "word_2": "兔爷爷", "label": 0}
+{"word_1": "戳爷", "word_2": "树爷爷", "label": 0}
+{"word_1": "蕴呈", "word_2": "蕴泰", "label": 0}
+{"word_1": "司家铺子", "word_2": "辣家铺子", "label": 0}
+{"word_1": "司家铺子", "word_2": "邱家铺子", "label": 0}
+{"word_1": "司家铺子", "word_2": "徽家铺子", "label": 0}
+{"word_1": "司家铺子", "word_2": "庄家铺子", "label": 0}
+{"word_1": "司家铺子", "word_2": "喵家铺子", "label": 0}
+{"word_1": "奇牛汇", "word_2": "大牛汇", "label": 0}
+{"word_1": "奇牛汇", "word_2": "奇商汇", "label": 0}
+{"word_1": "奇牛汇", "word_2": "超牛商汇", "label": 0}
+{"word_1": "华辰", "word_2": "辰", "label": 0}
+{"word_1": "华辰", "word_2": "辰歌;辰", "label": 0}
+{"word_1": "犇腾智付", "word_2": "犇腾联盟", "label": 0}
+{"word_1": "稷下求职", "word_2": "新知求职", "label": 0}
+{"word_1": "先生说茶", "word_2": "京先生茶舍", "label": 0}
+{"word_1": "织子童装", "word_2": "奥琪童装", "label": 0}
+{"word_1": "织子童装", "word_2": "酷子童", "label": 0}
+{"word_1": "织子童装", "word_2": "童子军", "label": 0}
+{"word_1": "芥末", "word_2": "芥墨", "label": 0}
+{"word_1": "吐丝软件 SPIN SOFTWARE", "word_2": "天府软件园 TIANFU SOFTWARE PAPK", "label": 0}
+{"word_1": "红鹭高山茶 HONGLU TEA FROM HIGH MOUNTAIN", "word_2": "六大茶山 SIX FAMOUS TEA MOUNTAIN", "label": 0}
+{"word_1": "红鹭高山茶 HONGLU TEA FROM HIGH MOUNTAIN", "word_2": "小兔七茶 TEA FROM RABBITS", "label": 0}
+{"word_1": "悍步", "word_2": "步积步", "label": 0}
+{"word_1": "惠优汇", "word_2": "惠汇", "label": 0}
+{"word_1": "惠优汇", "word_2": "汇惠优品 HUI2BEST", "label": 0}
+{"word_1": "惠优汇", "word_2": "淘惠汇", "label": 0}
+{"word_1": "惠优汇", "word_2": "惠加汇", "label": 0}
+{"word_1": "惠优汇", "word_2": "优易惠", "label": 0}
+{"word_1": "千阅文学", "word_2": "阅阅学", "label": 0}
+{"word_1": "千阅文学", "word_2": "学文", "label": 0}
+{"word_1": "千阅文学", "word_2": "文学 BAIDU", "label": 0}
+{"word_1": "千阅文学", "word_2": "37 文学", "label": 0}
+{"word_1": "璐茶", "word_2": "艳璐", "label": 0}
+{"word_1": "阜阳汉服", "word_2": "汉服 FM", "label": 0}
+{"word_1": "智运商城", "word_2": "智慧商城", "label": 0}
+{"word_1": "智运商城", "word_2": "智鼎商城", "label": 0}
+{"word_1": "智运商城", "word_2": "智云商诚", "label": 0}
+{"word_1": "智运商城", "word_2": "云牧商城", "label": 0}
+{"word_1": "智运商城", "word_2": "云仓商城", "label": 0}
+{"word_1": "儿童", "word_2": "童年·儿童乐园", "label": 0}
+{"word_1": "儿童", "word_2": "儿童潮玩", "label": 0}
+{"word_1": "当家铺子", "word_2": "煌家铺子", "label": 0}
+{"word_1": "当家铺子", "word_2": "渔家铺子", "label": 0}
+{"word_1": "云岭翻译", "word_2": "翻翻 翻 FANFANNET.COM", "label": 0}
+{"word_1": "云岭翻译", "word_2": "迅捷翻译", "label": 0}
+{"word_1": "云岭翻译", "word_2": "小牛翻译", "label": 0}
+{"word_1": "云岭翻译", "word_2": "迅捷翻译", "label": 0}
+{"word_1": "茶颜茶语", "word_2": "茶颜", "label": 0}
+{"word_1": "茶颜茶语", "word_2": "茶颜", "label": 0}
+{"word_1": "茶颜茶语", "word_2": "茶颜", "label": 0}
+{"word_1": "茶颜茶语", "word_2": "茶颜", "label": 0}
+{"word_1": "哎呀我兔", "word_2": "果呀呀", "label": 0}
+{"word_1": "哎呀我兔", "word_2": "果呀呀", "label": 0}
+{"word_1": "渔阅", "word_2": "阅阅", "label": 0}
+{"word_1": "渔阅", "word_2": "遇阅", "label": 0}
+{"word_1": "渔阅", "word_2": "阅阅学", "label": 0}
+{"word_1": "明轩人才", "word_2": "名人轩 名", "label": 0}
+{"word_1": "明轩人才", "word_2": "微人才 V 人才", "label": 0}
+{"word_1": "AI酒店", "word_2": "呦酒店", "label": 0}
+{"word_1": "趣比特", "word_2": "比特", "label": 0}
+{"word_1": "趣比特", "word_2": "比特", "label": 0}
+{"word_1": "明宇互娱", "word_2": "环宇互娱", "label": 0}
+{"word_1": "瀚马", "word_2": "汗马", "label": 0}
+{"word_1": "瀚马", "word_2": "汉马", "label": 0}
+{"word_1": "人人喝好茶", "word_2": "人人茶", "label": 0}
+{"word_1": "人人喝好茶", "word_2": "人人茶 WWW.RRTEA.VIP", "label": 0}
+{"word_1": "槎城故事", "word_2": "杭城故事", "label": 0}
+{"word_1": "槎城故事", "word_2": "淮城故事", "label": 0}
+{"word_1": "芭彩", "word_2": "芭芭鸭", "label": 0}
+{"word_1": "芭彩", "word_2": "星芭芭", "label": 0}
+{"word_1": "校园微信", "word_2": "微校", "label": 0}
+{"word_1": "杰搏JIEBO", "word_2": "搏宇", "label": 0}
+{"word_1": "教学助手", "word_2": "助手", "label": 0}
+{"word_1": "教学助手", "word_2": "卡助手", "label": 0}
+{"word_1": "优异思", "word_2": "思优易", "label": 0}
+{"word_1": "尚客悠品", "word_2": "集客尚品", "label": 0}
+{"word_1": "尚客悠品", "word_2": "客尚品 QQKEO.COM.CN", "label": 0}
+{"word_1": "威新匡", "word_2": "美匡威", "label": 0}
+{"word_1": "威新匡", "word_2": "威力匡", "label": 0}
+{"word_1": "威新匡", "word_2": "匡威 STAR", "label": 0}
